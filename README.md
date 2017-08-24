@@ -1,7 +1,24 @@
-# Control a Lamp Remotely Using the ESP8266 WiFi Chip	 [![Build Status](https://travis-ci.org/openhomeautomation/esp8266-relay.svg)](https://travis-ci.org/openhomeautomation/esp8266-relay)
+# Prototype remote relay control
 
-Relay control from a web page using the ESP8266 chip
 
-You can find the article on our website:
+Based on article on website:
 
 [https://www.openhomeautomation.net/control-a-lamp-remotely-using-the-esp8266-wifi-chip/](https://www.openhomeautomation.net/control-a-lamp-remotely-using-the-esp8266-wifi-chip/)
+
+
+Relay control from a web page using the ESP8266 chip. 
+
+# Building the relay-controlled outlet
+Follow the tutorial on https://www.sparkfun.com/tutorials/119 to see how to build the relay outlet. 
+
+
+Components required: 
+Arduino-compatible ESP8266 module and power supply wire
+Outlet 
+Spare 3 prong extension cord 
+[relay](https://detail.tmall.com/item.htm?spm=a230r.1.14.16.76bf523D7muT7&id=545596714383&cm_id=140105335569ed55e27b&abbucket=11)
+Green LED
+Control PCB (Optional)
+Breadboard
+Jumper wires
+Solder and Soldering Iron
